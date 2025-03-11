@@ -38,7 +38,7 @@ go run cmd/main.go
 ## Liens utiles
 
 - [Dépôt Front-End](https://github.com/StevenYAMBOS/wilo-frontend) *(en cours de développement)*
-- [Documentation du projet](./documentation/documentation.md)
+- [Documentation du projet](./documentation.md)
 - [Site internet](#) *(à venir)*
 
 ## Auteur
