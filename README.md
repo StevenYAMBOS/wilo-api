@@ -39,6 +39,7 @@ go run cmd/main.go
 
 - [Dépôt Front-End](https://github.com/StevenYAMBOS/wilo-frontend) *(en cours de développement)*
 - [Documentation du projet](./documentation.md)
+- [Matrices de décision](https://github.com/StevenYAMBOS/wilo-api/blob/main/Matrices%20de%20d%C3%A9cision.md)
 - [Site internet](#) *(à venir)*
 
 ## Auteur
